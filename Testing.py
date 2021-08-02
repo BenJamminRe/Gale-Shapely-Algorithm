@@ -1,6 +1,6 @@
 #---------------------------------------------------------------------------
-# Creates a text output for testing in COMP320AS1
-# Benjamin Reelick - Bree352 - Benjamin.Reelick@gmail.com
+# Creates a text output for testing 
+# Benjamin Reelick - Benjamin.Reelick@gmail.com - 2/08/2021
 #---------------------------------------------------------------------------
 
 # Imports:
@@ -31,6 +31,3 @@ for k in prefD:
         testFile.write(' {}'.format(prefD[k][i]))
 
 testFile.close()
-
-
-
